@@ -21,3 +21,4 @@ utils.py：实用方法模块
 network.py：RNN-LSTM循环神经网络模型
 train.py：训练神经网络模型
 test.py：测试神经网络模型
+https://github.com/aRrtTist/Natural-language-processing/edit/master/README.txt
